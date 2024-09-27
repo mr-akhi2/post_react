@@ -1,0 +1,68 @@
+#main {
+  height: 95px;
+  display: flex;
+  justify-content: space-between;
+  background: rgb(47, 21, 88);
+  border-radius: 20px;
+  margin: 50px 20px;
+  box-shadow: 10px 10px 20px rgb(78, 75, 75), -10px -10px 20px rgb(87, 58, 58);
+}
+#date {
+  height: 100%;
+  width: 100px;
+  border-radius: 10px;
+  margin: 5px 0px 0px 5px;
+
+}
+#dateA {
+  color: white;
+  text-align: center;
+}
+
+#name {
+  height: 100%;
+  width: 200px;
+  border-radius: 10px;
+}
+#name h1,
+#price h2 {
+  text-align: center;
+  padding-top: 10px;
+  color: rgb(255, 255, 255);
+}
+#price {
+  height: 100%;
+  width: 200px;
+  margin: 2px 10px;
+  border-radius: 10px;
+}
+#user{
+  height: 100%;
+  margin: 40px ;
+}
+#btn{
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  background: rgb(10, 10, 59);
+  color: white;
+  font-weight: 800;
+
+}
+#inp{
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  margin-left: 30px;
+  outline: none;
+}
+#delbtn{
+  margin: 30px 20px;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  background: rgb(31, 31, 122);
+  color: white;
+  font-weight: 700;
+
+}

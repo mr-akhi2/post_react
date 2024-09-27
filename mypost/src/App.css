@@ -1,0 +1,30 @@
+.sd {
+  min-height: 500px;
+}
+#Container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+#form {
+  width: 400px;
+  height: 540px;
+  border: 2px solid rgb(6, 16, 156);
+  margin: 10px 100px;
+  padding: 50px;
+  border-radius: 10px;
+}
+.crd {
+  margin: 20px 120px;
+  width: 30rem;
+}
+.hashtag {
+  margin: 0px 3px;
+}
+.alerts {
+  margin-top: 10px;
+}
+.mar {
+  margin: 50px;
+}

@@ -1,0 +1,17 @@
+#btns,
+#btns1 {
+  height: 40px;
+  width: 60px;
+  float: right;
+  background: rgb(14, 227, 255);
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  border-radius: 10px;
+  margin-top: -8px;
+  /* border: none; */
+}
+#btns1 {
+  background: red;
+  margin-left: 5px;
+  color: rgb(255, 250, 250);
+}

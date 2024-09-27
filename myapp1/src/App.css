@@ -1,0 +1,7 @@
+#head{
+text-decoration: underline;
+  text-transform: uppercase;
+  background: rgba(216, 167, 167, 0.699);
+  color: blue;
+  user-select:text;
+}
